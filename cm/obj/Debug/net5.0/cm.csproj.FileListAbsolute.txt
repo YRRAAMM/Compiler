@@ -1,0 +1,16 @@
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.exe
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.deps.json
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.runtimeconfig.json
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.runtimeconfig.dev.json
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.dll
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\ref\cm.dll
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\bin\Debug\net5.0\cm.pdb
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.csproj.AssemblyReference.cache
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.AssemblyInfoInputs.cache
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.AssemblyInfo.cs
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.csproj.CoreCompileInputs.cache
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.dll
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\ref\cm.dll
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.pdb
+c:\Users\youssif\Desktop\D folder\college\second term\Compiler\Project\compiler\cm\obj\Debug\net5.0\cm.genruntimeconfig.cache
